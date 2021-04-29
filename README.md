@@ -1,4 +1,4 @@
-<h1> prac</h1>echo "# e-comerce" >> README.md
+<h1> practice</h1>echo "# e-comerce" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
